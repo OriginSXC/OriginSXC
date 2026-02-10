@@ -26,8 +26,11 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OriginSXC&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OriginSXC&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180" alt="languages graph" />
+  <img src="https://stats.justsong.cn/api/github?username=OriginSXC&theme=buefy&show_icons=true" alt="OriginSXC's GitHub stats" />
+  
+  <br/> <br/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OriginSXC&theme=buefy&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
@@ -37,7 +40,7 @@
   
   <br/><br/>
   
-  <a href="mailto:shixuan.cheng@ucalgary.ca">
+  <a href="mailto:cheng19930723@gmail.com">
     <img src="https://img.shields.io/badge/Contact_Me-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </div>
