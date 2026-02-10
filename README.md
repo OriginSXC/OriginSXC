@@ -9,40 +9,41 @@
   
   <!-- 社交与状态徽章 -->
   <p>
-    <!-- 个人网站状态 -->
+    <!-- 1. 个人网站状态 -->
     <a href="https://htym.ovh/">
       <img src="https://img.shields.io/website?url=https%3A%2F%2Fhtym.ovh%2F&up_message=htym.ovh%20Online&up_color=success&down_message=Offline&down_color=red&style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Website Status"/>
     </a>
-    <!-- IPFS 网关状态 -->
+    <!-- 2. IPFS 网关状态 -->
     <a href="https://ipfs.qzz.io/">
       <img src="https://img.shields.io/website?url=https%3A%2F%2Fipfs.qzz.io%2F&up_message=IPFS%20Gateway%20Active&up_color=2496ED&down_message=Down&down_color=red&style=for-the-badge&logo=ipfs&logoColor=white" alt="IPFS Status"/>
     </a>
-    <!-- Docker Hub -->
+    <!-- 3. Docker Hub -->
     <a href="https://hub.docker.com/repositories/cheng19930723">
       <img src="https://img.shields.io/badge/Docker_Hub-cheng19930723-0db7ed?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Hub"/>
+    </a>
+    <!-- 4. Bilibili 动态粉丝数 (实时读取 API) -->
+    <a href="https://space.bilibili.com/3226226">
+      <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Frelation%2Fstat%3Fvmid%3D3226226&query=data.follower&style=for-the-badge&logo=bilibili&label=Bilibili%20Fans&color=fb7299" alt="Bilibili Fans"/>
+    </a>
+    <!-- 5. Email (移到最后) -->
+    <a href="mailto:cheng19930723@gmail.com">
+      <img src="https://img.shields.io/badge/Email-cheng19930723%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
   </p>
 </div>
 
 <br/>
 
-<!-- ==================== 2. 核心数据统计 (稳定 API 版) ==================== -->
+<!-- ==================== 2. 核心数据统计 (倒三角布局) ==================== -->
 <div align="center">
 
-  <!-- 第一行：GitHub 概览 (换用 Summary Cards，极稳) + 连续打卡 -->
+  <!-- 第一行：GitHub Profile + GitHub Streak -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OriginSXC&theme=buefy" height="165" alt="GitHub Profile Details" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=OriginSXC&theme=buefy&hide_border=true" height="165" alt="GitHub Streak" />
 
   <br/> <!-- 换行 -->
 
-  <!-- 第二行：B站数据 + 语言分布 (换用 Summary Cards 饼图) -->
-  
-  <!-- Bilibili: 目前大卡片只有 JustSong 提供。如果下方图片裂了，说明服务暂时不可用 -->
-  <a href="https://space.bilibili.com/3226226">
-    <img src="https://stats.justsong.cn/api/bilibili/?id=3226226&theme=buefy" height="165" alt="Bilibili Stats" />
-  </a>
-  
-  <!-- GitHub 语言饼图: 替代原本报错的 Top Langs -->
+  <!-- 第二行：语言分布 (居中显示) -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OriginSXC&theme=buefy" height="165" alt="Most Commit Languages" />
 
 </div>
