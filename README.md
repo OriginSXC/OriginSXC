@@ -7,11 +7,11 @@
   
   <p>
     <a href="https://www.htym.ovh/">
-      <img src="https://img.shields.io/website?url=https%3A%2F%2Fwww.htym.ovh%2F&up_message=PERSONAL%20PORTAL&down_message=OFFLINE&label=WWW.HTYM.OVH&up_color=success&down_color=red&style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Website Status"/>
+      <img src="https://img.shields.io/badge/WWW.HTYM.OVH-PERSONAL%20PORTAL-success?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Personal Portal"/>
     </a>
     
     <a href="https://ipfs.htym.ovh/">
-      <img src="https://img.shields.io/website?url=https%3A%2F%2Fipfs.htym.ovh%2F&up_message=UPLOAD%20%26%20GATEWAY&down_message=DOWN&label=IPFS.HTYM.OVH&up_color=2496ED&down_color=red&style=for-the-badge&logo=ipfs&logoColor=white" alt="IPFS Status"/>
+      <img src="https://img.shields.io/badge/IPFS.HTYM.OVH-UPLOAD%20%26%20GATEWAY-2496ED?style=for-the-badge&logo=ipfs&logoColor=white" alt="IPFS Gateway"/>
     </a>
     
     <a href="https://hub.docker.com/repositories/cheng19930723">
