@@ -26,11 +26,23 @@
 <br/>
 
 <div align="center">
-  <img src="https://stats.justsong.cn/api/github?username=OriginSXC&theme=buefy&show_icons=true" alt="OriginSXC's GitHub stats" />
-  
+
+  <img src="https://stats.justsong.cn/api/github?username=OriginSXC&theme=buefy&show_icons=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OriginSXC&theme=buefy&hide_border=true" height="165" alt="GitHub Streak" />
+
   <br/> <br/>
+
+  <a href="https://space.bilibili.com/3226226">
+    <img src="https://stats.justsong.cn/api/bilibili/?id=666&theme=buefy" height="165" alt="Bilibili Stats" />
+  </a>
+  <a href="[https://htym.ovh">
+    <img src="https://stats.justsong.cn/api/website/?url=https://github.com/&style=flat&logo=github&theme=buefy" height="165" alt="Website Status" />
+  </a>
+
+  <br/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OriginSXC&theme=buefy&hide_border=true" alt="GitHub Streak" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=OriginSXC.OriginSXC&left_color=gray&right_color=blue" alt="visitor stats"/>
+
 </div>
 
 <br/>
