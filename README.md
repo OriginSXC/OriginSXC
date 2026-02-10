@@ -1,6 +1,6 @@
-<!-- ==================== Header & Typing Effect ==================== -->
+<!-- ==================== 1. Header & Typing Effect ==================== -->
 <div align="center">
-  <!-- 修复：width=750 确保长文字不换行/不截断 -->
+  <!-- 修复：width=750 确保 "Petroleum Eng." 完整显示 -->
   <a href="https://htym.ovh/">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3F76BF&center=true&vCenter=true&width=750&lines=Hello%2C+I'm+OriginSXC;Research%3A+AI%2C+CCS%2C+UHS+%26+Petroleum+Eng.;Visit+My+Site%3A+htym.ovh;Docker+Hub%3A+cheng19930723" alt="Typing SVG" />
   </a>
@@ -30,29 +30,29 @@
 
 <br/>
 
-<!-- ==================== 核心数据统计 (2x2 布局) ==================== -->
+<!-- ==================== 2. 核心数据统计 (稳定版) ==================== -->
 <div align="center">
 
-  <!-- 第一行：GitHub 概览 + 连续打卡 -->
-  <!-- 修复：custom_title 解决 null 问题，disable_animations 提高加载成功率 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=OriginSXC&show_icons=true&theme=buefy&hide_border=true&custom_title=OriginSXC&disable_animations=true" height="165" alt="GitHub Stats" />
+  <!-- 第一行：GitHub 概览 (换成了 Songquanpeng 源) + 连续打卡 -->
+  <!-- 这里的 GitHub 卡片和你 B站卡片是同一个服务商，稳定性更高 -->
+  <img src="https://stats.justsong.cn/api/github?username=OriginSXC&theme=buefy&show_icons=true" height="165" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=OriginSXC&theme=buefy&hide_border=true" height="165" alt="GitHub Streak" />
 
   <br/> <!-- 换行 -->
 
-  <!-- 第二行：B站数据 (UID: 3226226) + 常用语言分布 -->
+  <!-- 第二行：B站数据 + 语言分布 (换成了 Summary Cards 源) -->
   <a href="https://space.bilibili.com/3226226">
     <img src="https://stats.justsong.cn/api/bilibili/?id=3226226&theme=buefy" height="165" alt="Bilibili Stats" />
   </a>
   
-  <!-- 修复：隐藏 html/css 减少计算量，防止 Error Fetching Resource -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OriginSXC&layout=compact&theme=buefy&hide_border=true&langs_count=6&custom_title=Languages&hide=html,css&disable_animations=true" height="165" alt="Top Languages" />
+  <!-- 替代 API：使用 GitHub Profile Summary Cards 的语言饼图，主题设为 tokyonight 以匹配蓝色调 -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OriginSXC&theme=buefy" height="165" alt="Most Commit Languages" />
 
 </div>
 
 <br/>
 
-<!-- ==================== 精选服务推广 (Featured Services) ==================== -->
+<!-- ==================== 3. 精选服务推广 (Featured Services) ==================== -->
 <div align="center">
   
   <!-- Promotion 1: htym.ovh -->
@@ -78,7 +78,7 @@
 
 <br/>
 
-<!-- ==================== 技术栈 (Tech Stack) ==================== -->
+<!-- ==================== 4. 技术栈 (Tech Stack) ==================== -->
 <div align="center">
   <h3>🛠️ Tech Stack & Tools</h3>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
