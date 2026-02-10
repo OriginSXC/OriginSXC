@@ -1,6 +1,6 @@
 <!-- ==================== 1. Header & Typing Effect ==================== -->
 <div align="center">
-  <!-- 修复：width=750 确保 "Petroleum Eng." 完整显示 -->
+  <!-- Typing SVG: 宽度 750，确保 Petroleum Eng. 完整显示 -->
   <a href="https://htym.ovh/">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3F76BF&center=true&vCenter=true&width=750&lines=Hello%2C+I'm+OriginSXC;Research%3A+AI%2C+CCS%2C+UHS+%26+Petroleum+Eng.;Visit+My+Site%3A+htym.ovh;Docker+Hub%3A+cheng19930723" alt="Typing SVG" />
   </a>
@@ -9,7 +9,7 @@
   
   <!-- 社交与状态徽章 -->
   <p>
-    <!-- Email (New!) -->
+    <!-- Email -->
     <a href="mailto:cheng19930723@gmail.com">
       <img src="https://img.shields.io/badge/Email-cheng19930723%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
@@ -30,22 +30,23 @@
 
 <br/>
 
-<!-- ==================== 2. 核心数据统计 (稳定版) ==================== -->
+<!-- ==================== 2. 核心数据统计 (稳定 API 版) ==================== -->
 <div align="center">
 
-  <!-- 第一行：GitHub 概览 (换成了 Songquanpeng 源) + 连续打卡 -->
-  <!-- 这里的 GitHub 卡片和你 B站卡片是同一个服务商，稳定性更高 -->
-  <img src="https://stats.justsong.cn/api/github?username=OriginSXC&theme=buefy&show_icons=true" height="165" alt="GitHub Stats" />
+  <!-- 第一行：GitHub 概览 (换用 Summary Cards，极稳) + 连续打卡 -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OriginSXC&theme=buefy" height="165" alt="GitHub Profile Details" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=OriginSXC&theme=buefy&hide_border=true" height="165" alt="GitHub Streak" />
 
   <br/> <!-- 换行 -->
 
-  <!-- 第二行：B站数据 + 语言分布 (换成了 Summary Cards 源) -->
+  <!-- 第二行：B站数据 + 语言分布 (换用 Summary Cards 饼图) -->
+  
+  <!-- Bilibili: 目前大卡片只有 JustSong 提供。如果下方图片裂了，说明服务暂时不可用 -->
   <a href="https://space.bilibili.com/3226226">
     <img src="https://stats.justsong.cn/api/bilibili/?id=3226226&theme=buefy" height="165" alt="Bilibili Stats" />
   </a>
   
-  <!-- 替代 API：使用 GitHub Profile Summary Cards 的语言饼图，主题设为 tokyonight 以匹配蓝色调 -->
+  <!-- GitHub 语言饼图: 替代原本报错的 Top Langs -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OriginSXC&theme=buefy" height="165" alt="Most Commit Languages" />
 
 </div>
@@ -78,14 +79,34 @@
 
 <br/>
 
-<!-- ==================== 4. 技术栈 (Tech Stack) ==================== -->
+<!-- ==================== 4. 技术栈 (带官网链接) ==================== -->
 <div align="center">
   <h3>🛠️ Tech Stack & Tools</h3>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  
+  <!-- Python -->
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  </a>
+  
+  <!-- PyTorch -->
+  <a href="https://pytorch.org/">
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  </a>
+  
+  <!-- Docker -->
+  <a href="https://www.docker.com/">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  </a>
+  
+  <!-- Linux -->
+  <a href="https://www.kernel.org/">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  </a>
+  
+  <!-- CUDA -->
+  <a href="https://developer.nvidia.com/cuda-zone">
+    <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA"/>
+  </a>
 </div>
 
 <hr/>
