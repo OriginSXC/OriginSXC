@@ -9,10 +9,6 @@
   
   <!-- 社交与状态徽章 -->
   <p>
-    <!-- Email -->
-    <a href="mailto:cheng19930723@gmail.com">
-      <img src="https://img.shields.io/badge/Email-cheng19930723%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
     <!-- 个人网站状态 -->
     <a href="https://htym.ovh/">
       <img src="https://img.shields.io/website?url=https%3A%2F%2Fhtym.ovh%2F&up_message=htym.ovh%20Online&up_color=success&down_message=Offline&down_color=red&style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Website Status"/>
