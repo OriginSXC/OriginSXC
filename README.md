@@ -1,22 +1,46 @@
 ## Hi there 👋
 
-<!--
-**OriginSXC/OriginSXC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3F76BF&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+OriginSXC;AI+%26+HPC+Researcher;Data+Scientist+%7C+Python+%7C+Linux;Welcome+to+my+Github+Profile!" alt="Typing SVG" />
+  </a>
+</div>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![OriginSXC's GitHub stats](https://github-readme-stats.vercel.app/api?username=OriginSXC&hide=contribs,prs)
+<div align="center">
+  I specialize in <b>Machine Learning</b>, <b>High-Performance Computing</b>, and <b>Carbon Capture Simulation</b>.<br/>
+  Passionate about solving complex physics problems with AI.
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OriginSXC)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OriginSXC&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OriginSXC&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180" alt="languages graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=OriginSXC.OriginSXC" alt="visitor badge"/>
+  
+  <br/><br/>
+  
+  <a href="mailto:shixuan.cheng@ucalgary.ca">
+    <img src="https://img.shields.io/badge/Contact_Me-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</div>
 
 
 
