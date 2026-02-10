@@ -7,14 +7,17 @@
   
   <p>
     <a href="https://www.htym.ovh/">
-      <img src="https://img.shields.io/website?url=https%3A%2F%2Fwww.htym.ovh%2F&up_message=WWW.HTYM.OVH%20ONLINE&up_color=success&down_message=OFFLINE&down_color=red&style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Website Status"/>
+      <img src="https://img.shields.io/website?url=https%3A%2F%2Fwww.htym.ovh%2F&up_message=PERSONAL%20PORTAL&down_message=OFFLINE&label=WWW.HTYM.OVH&up_color=success&down_color=red&style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Website Status"/>
     </a>
+    
     <a href="https://ipfs.htym.ovh/">
-      <img src="https://img.shields.io/website?url=https%3A%2F%2Fipfs.htym.ovh%2F&up_message=IPFS.HTYM.OVH%20ACTIVE&up_color=2496ED&down_message=DOWN&down_color=red&style=for-the-badge&logo=ipfs&logoColor=white" alt="IPFS Status"/>
+      <img src="https://img.shields.io/website?url=https%3A%2F%2Fipfs.htym.ovh%2F&up_message=UPLOAD%20%26%20GATEWAY&down_message=DOWN&label=IPFS.HTYM.OVH&up_color=2496ED&down_color=red&style=for-the-badge&logo=ipfs&logoColor=white" alt="IPFS Status"/>
     </a>
+    
     <a href="https://hub.docker.com/repositories/cheng19930723">
       <img src="https://img.shields.io/badge/DOCKER_HUB-cheng19930723-0db7ed?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Hub"/>
     </a>
+    
     <a href="https://space.bilibili.com/3226226">
       <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Frelation%2Fstat%3Fvmid%3D3226226&query=data.follower&style=for-the-badge&logo=bilibili&label=BILIBILI%20FANS&color=fb7299" alt="Bilibili Fans"/>
     </a>
